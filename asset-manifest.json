@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/project-/static/js/main.4f9b7ace.js",
-    "index.html": "/project-/index.html",
-    "main.4f9b7ace.js.map": "/project-/static/js/main.4f9b7ace.js.map"
+    "main.js": "/exp-ui/static/js/main.4f9b7ace.js",
+    "index.html": "/exp-ui/index.html",
+    "main.4f9b7ace.js.map": "/exp-ui/static/js/main.4f9b7ace.js.map"
   },
   "entrypoints": [
     "static/js/main.4f9b7ace.js"
